@@ -14,7 +14,7 @@ repositories {
 }
 
 dependencies {
-    implementation("com.github.samman56:dfscript_dsl:0cf0c3f9d5d469093917827d4ef838f11620f834")
+    implementation("com.github.samman56:dfscript_dsl:main-SNAPSHOT")
 }
 
 tasks.withType<KotlinCompile> {
